@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: 2.4 alfa Retro Engine",
+  "description": "A modern 16-bit professional 2D game engine editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
